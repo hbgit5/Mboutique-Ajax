@@ -1,0 +1,551 @@
+
+
+.header-section {
+    position:relative;
+    width:1000px;
+    height:72px;
+    font-size:16px;
+    background-color:#fffabe;
+    width:100%;
+    
+  
+}
+
+.main-section {
+    width: 1000px;
+    margin: auto;
+    left:0;
+    top:0;
+    position:relative;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+
+footer {
+    position:relative;
+    width:1000px;
+    height:80px;
+    background-color:#df5277;
+    color:white;
+}
+
+body {
+    margin:20px;
+    position:relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+    color:#515151;
+    width:1000px;
+    
+}
+
+
+.list-clean {
+    margin: 0px;
+    padding: 0;
+    list-style-type: none;
+    
+}
+#footer-tel {
+    text-decoration:none;
+    color:white;
+    background: url(/img/phone.png) left no-repeat;
+    padding: 25px;
+    margin-top:20px;
+
+}
+
+
+
+.list-left li {
+    float: left;
+    
+   
+}
+
+
+
+#nav-list {
+    text-decoration: none;
+    list-style-type: none;
+    margin: 30px;
+    float: right;
+   
+   
+}
+
+
+
+#nav-list li a{
+     color:#6a6969;
+    text-decoration: none;
+    
+}
+
+
+
+#footer-list {
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    font-size:12px;
+    margin-left:140px;
+   
+  
+  
+    
+}
+
+.clear {
+    clear: both;
+}
+
+html {
+    margin:0;
+}
+
+
+
+
+
+.header-section img{
+    margin-top:20px;
+    margin-left:20px;
+    
+}
+
+
+#footer-list li{
+   
+    float:left;
+    padding:0px;
+}
+
+#welcome-macs {
+    width:1000px;
+    height:400px;
+}
+
+.welcome-text h2 {
+font-family: Helvetica, Arial,sans-serif;
+font-style:normal;
+font-size: 20px;
+color:#6a6969;
+margin-top:50px;
+    
+}
+
+.welcome-text p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color:#6a6969;
+}
+
+.welcome-text h2 p{
+    display:inline-block;
+    
+}
+
+#nav-list li{
+    margin-right:20px;
+}
+
+.welcome-main-container {
+    position:relative;
+    width:100%;
+    
+}
+
+#color-macs {
+float: left;
+padding: 10px;
+margin: 75px;
+    
+}
+
+.flavor-squares {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:12px;
+    color:#6a6969;  
+    margin-bottom:50px;
+    width:1000px;
+   
+}
+
+#chocolate {
+    background-color:#824603;
+    width:100%;
+    height: 33px;
+    color:white;
+    position:absolute;
+    bottom:0px;
+    padding:0px;
+    
+    
+    
+}
+
+
+.gifts-parties-maincontainer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:12px;
+    color:#6a6969; 
+    margin:10px;
+    height: 100%;
+    
+    
+}
+
+#mac-tower {
+    float:right;
+    margin:0px;
+    padding:0px;
+    top:1250px;
+}
+
+our-macs h2 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px;
+    color:#6a6969;
+    
+}
+
+.our-macs {
+     font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    color:#6a6969;
+}
+
+#nav-list li:hover {
+    color:#d42551;
+    
+}
+
+#footer-list li{
+    display: inline-block;
+    float:left;
+    margin-right:80px;
+    margin-top:10px;
+ 
+    
+    
+}
+
+#footer-mail img {
+    display:inline-block;
+    float: left;
+    margin-right:10px;
+    margin-top:12px
+}
+
+
+
+
+
+#footer-mail p {
+    float:right;
+   text-align: center;
+}
+
+#footer-telephone a {
+    text-align: center;
+}
+
+
+
+
+#footer-telephone img{
+    margin-right:25px;
+}
+
+
+
+#footer-telephone p{
+    font-size:12px;
+    
+}
+
+#social-media img{
+    display: inline-block;
+    float:right;
+    padding: 5px;
+    
+}
+
+#social-media {
+    display: inline-block;
+    float:left;
+}
+
+#social-media p{
+    display: inline-block;
+    float:left;
+    margin-right: 15px;
+    margin-top:10px;
+}
+
+
+
+
+    
+
+
+#footer-list li{
+    margin-left: auto;
+    margin-right:auto;
+    vertical-align: middle;
+    
+}
+
+
+
+
+
+.choco-coco img{
+    margin-left:5px;
+    
+}
+
+.choco-coco p{
+    margin-left: auto;
+    margin-right: auto;
+    padding:2px;
+    display: inline-block;
+    
+}
+
+
+
+
+
+
+.contact-main-container {
+    width:1000px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#515151;
+}
+
+
+#map {
+    width:1000px;
+    height:400px;
+    position: relative;
+}
+
+#name{
+    background-color: #f5f5f5;
+}
+
+.input {
+margin-bottom: 10px;
+width: 310px;
+height: 35px;
+text-area: 15px;
+padding: 0 0 0 15px;
+border: 0px;
+background-color: #f5f5f5;
+}
+
+#Message {
+    background-color:#f5f5f5;
+    width:310px;
+    height:70px;
+    padding: 0 0 0 15px;
+border: 0px;
+}
+
+#send {
+    background-color:#f5f5f5;
+    width:155px;
+    height:35px;
+    padding:15px;
+    border: 0px;
+    float:right;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:#6a6969;
+}
+
+.contact-main-container p {
+    color:#6a6969;
+    font-size: 14px;
+    
+    
+}
+
+.contact-info {
+    display:inline-block;
+    float:left;
+    margin-top:10px;
+}
+
+#floating-macs {
+    float:right;
+    display:inline-block;
+    position: relative;
+    margin-top:120px
+   
+}
+
+#contact-form {
+    width:320px
+        display:inline-block;
+    float:left;
+    margin-top:10px;
+    margin-left:15px;
+}
+
+
+#macs-background img {
+    position: relative;
+    display: inline-block;
+
+    
+   
+}
+
+
+
+#tower-background {
+    float:right;
+    position: relative;
+    
+}
+
+.gifts-text-box {
+    background-image:url("img/gifts-parties-background.png");
+    background-repeat: no-repeat;
+  background-position: -55px;
+background-position-y: -162px;
+    position: relative;
+    height: 500px;
+   
+}
+
+
+#vanilla {
+    background-color: #df5277;
+    padding:0px;
+    height:33px;
+    margin:0px;
+    color:white;
+}
+
+#green-tea {
+    position:absolute;
+    bottom:0px;
+    left:0px;
+    width:100%;
+    height: 33px;
+
+    
+   
+    
+}
+
+
+
+.gifts-parties-maincontainer p{
+    padding: 0px;
+    
+}
+
+#macs-background {
+    position: relative;
+   height: 500px;
+    
+    background-image: url("img/our-macarons-background.png");
+    background-repeat: no-repeat;
+    background-position: 0px -175px;
+
+}
+
+.our-macs p{
+    margin-top: 85px;
+    
+}
+
+.flavor-squares ul{
+    position:relative;
+    width:126px;
+    height: 140px;
+    background-color: #fffabe;
+    display:inline-block;
+    list-style-type: none;
+    margin-right:10px;
+    padding:0;
+    
+}
+
+
+
+
+
+
+
+
+.box li{
+    width: 100%;
+   margin-top:15px;
+    vertical-align: middle;
+
+    
+}
+
+.last-section {
+    position:absolute;
+    bottom:0px;
+    padding:0px;
+}
+
+.box img{
+    margin-right:8px;
+    position:relative;
+    float:right;
+  
+    
+}
+
+#coco {
+    background-color: #824603;
+    padding:0px;
+    height:33px;
+    margin:0px;
+    color:white;
+}
+
+#lemon {
+     background-color: #a2304e;
+    padding:0px;
+    height:33px;
+    margin:0px;
+    color:white;
+}
+
+#almond {
+    background-color: #c39005;
+    padding:0px;
+    height:33px;
+    margin:0px;
+    color:white;
+}
+
+.box li {
+    margin:5px;
+   
+}
+
+#footer-list li{
+     margin-right: 50px;
+    
+}
+
+.flavor-box {
+    width:1000px;
+    position: relative;
+   
+}
